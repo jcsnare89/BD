@@ -1,0 +1,23 @@
+Hello all,
+
+These are the review questions for coming Wednesday's quiz:
+
+a) Explain the difference between the program and the process
+
+b) Explain different memory divisions of the process
+
+c) Distinguish between process stack and heap
+
+d) What is Process Control Block? Describe the different states of the Process Control Block.
+
+e) What do you understand by Process Schedulers? Describe their functions.
+
+f) What is Context Switch? Explain in details the procedure of Context Switch
+
+g) Explain the difference between Zombie and Orphan process
+
+h) Explain how process communication takes place. What are the advantages of Interprocess communications?
+
+i) Explain the difference between shared memory and message passing systems.
+
+j) Learn also about the creation of the process.
