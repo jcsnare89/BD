@@ -1,27 +1,25 @@
-c) Also learn about Process Management, Storage Management and Memory Management
+These are the review questions for test2 to be held on coming Wednesday.
 
+a) How are the processes terminated? Provide reasons for process termination
 
+b) Discuss the advantages of cooperative processes
 
-Different Services of the operating system, interfaces of the operating system, system calls and system programs
+c) Explain context switching
 
-e) What are the different services of the operating system?
+d) Explain the benefits of threads
 
-f) What are the interfaces of operating system? Describe how do they function?
+e) What is multi-core programming? What are the challenges of multi-core programming?
 
-g) What are the different types of system calls? Explain their purposes.
+f) Study different thread models
 
-h) Explain the role of the command interpreter in the operating system.
+g) What is CPU schedular? Distinguish between Preemptive and Non Preemptive schedular.
 
-i) Define system programs. Explain the role of different categories of system programs.
+h) Explain Why the modern operating systems switch to preemptive scheduling? What are the challenges lie with preemptive scheduling?
 
-Operating System Structure: (We will complete on Monday)
+i) Explain the conditions when CPU scheduling decision takes place.
 
-Learn different structures of the operating system.
+j) Explain the scheduling criteria
 
-j) Simple structure, Layered Structure, Modular structure, hybrid structure and micro kernel
+k) What is a CPU dispatcher? Describe its functions.
 
-k) Please learn the different structure diagrams and the examples of the operating system following a specific structure
-
-l) Describe the architectures of MAC OSX, IOS and Android. Learn the diagrams of these architectures.
-
-m) Learn the difference between Debugging and Performance tuning
+Have a great weekend.
